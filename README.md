@@ -1,24 +1,30 @@
-### Hi there! 👋
+<h1 align="center">
+  <a href="https://github.com/Inert0x">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=>_Initializing+root@Inert0x...;>_Access+Granted." alt="Typing SVG" />
+  </a>
+</h1>
 
-I'm Andy, an AI enthusiast with a passion for machine learning, web crawling, ChatGPT, Python, and C++. Welcome to my GitHub profile!
+### `> whoami`
 
-🧠 I love exploring the fascinating world of artificial intelligence and leveraging its potential to solve complex problems.
-
-💻 My interests span across various topics, including:
-
-- Machine learning algorithms and techniques
-- Web crawling and data extraction
-- Natural language processing and ChatGPT models
-- Python development and libraries
-- C++ programming for performance-critical tasks
-
-🔍 On my GitHub, you'll find a collection of projects related to these subjects, showcasing my work, experiments, and contributions to the open-source community.
-
-🌐 Feel free to connect with me on [Twitter](https://twitter.com/andylegend9), where I share insights, updates, and interesting findings in the world of AI and technology.
-
-🚀 Let's collaborate, learn, and push the boundaries of what AI can do together! If you have any questions or ideas, don't hesitate to reach out.
-
-📫 If you have some questions, contact me on [freshmentolegend@gmail.com](mailto:freshmentolegend@gmail.com) or [freshmentolegend@hotmail.com](mailto:freshmentolegend@hotmail.com)  
-
-Happy coding! 😊  
-
+```json
+{
+  "name": "ZTY",
+  "alias": "Inert0x",
+  "status": ["C++ Developer", "Python Developer", "Node.js Lover", "Neural Network Fanatic", "OIer", "React Full-Stack", "Database Maintainer"],
+  "core_modules": [
+    "Algorithms & Data Structures",
+    "Game Engine & Mechanics Design",
+    "Advanced Math (KKT, Hölder)",
+    "Network Security",
+    "Machine Learning & GPU Architecture"
+  ],
+  "current_processes": [
+    "Deploying Cloud Minecraft Server...",
+    "Compiling Harry Potter Universe Fanfic...",
+    "Bypassing CF...",
+    "Exhaust by deploying Node.js projects...",
+    "Fixing bugs...",
+    "Writing templates of data structures..."
+  ],
+  "contact": "mailto:yaypython@gmail.com"
+}
