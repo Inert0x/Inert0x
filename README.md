@@ -44,8 +44,8 @@ const penumbra = {
 
 ### `// metrics`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Inert0x&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=aaaaaa&icon_color=00FF9C&hide=stars&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inert0x&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=aaaaaa&langs_count=6" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Inert0x&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=aaaaaa&icon_color=00FF9C&hide=stars&count_private=true" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Inert0x&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=aaaaaa&langs_count=6" />
 
 &nbsp;
 
